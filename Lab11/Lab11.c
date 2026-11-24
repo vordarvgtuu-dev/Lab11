@@ -78,9 +78,9 @@ int main() {
     }
 
 
-    double сvg_pos = (count_pos > 0) ? (sum_pos / count_pos) : 0.0;
+    double cvg_pos = (count_pos > 0) ? (sum_pos / count_pos) : 0.0;
 
     printf("\n\nЗААДАНИЕ 2:\nМассив: C | Сумма (+): %.4lf | Сумма (-): %.4lf | Кол-во (+): %d | Кол-во (-): %d | Среднее (+): %.4lf\n",
-        sum_pos, sum_neg, count_pos, count_neg, сvg_pos);
+        sum_pos, sum_neg, count_pos, count_neg, cvg_pos);
     return 0;
 }
