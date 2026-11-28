@@ -1,0 +1,194 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 818.44 1948.74" width="818.44" height="1948.74" id="mea044b__root" data-diagram-type="flowchart">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .m-node .m-shape{fill:var(--m-node-fill);stroke:var(--m-node-stroke);stroke-width:1.5px}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .m-edge-label .m-pill-bg,.mercat .m-edge-label .m-shape{fill:var(--m-pill-bg);stroke:var(--m-pill-border);stroke-width:1px}.mercat .m-edge-label .m-label{fill:var(--m-text-sec)}.mercat .t-label{font-size:13px;font-weight:500}.mercat .t-edge{font-size:11px;font-weight:400}</style>
+  <style data-mercat-style="theme-light">#mea044b__root{--m-text:#1f1f1f;--m-text-sec:#797979;--m-line:#545454;--m-node-fill:#f8f9fa;--m-node-stroke:#747775;--m-pill-bg:#fbfbfb;--m-pill-border:#d7d7d7}</style>
+  <style data-mercat-style="theme-dark">#mea044b__root.dark{--m-text:#e3e3e3;--m-text-sec:#959595;--m-line:#bfbfbf;--m-node-fill:#2d2e30;--m-node-stroke:#8e918f;--m-pill-bg:#232323;--m-pill-border:#424242}</style>
+  <g class="mercat mercat-flowchart" transform="translate(365.82, -35)">
+    <defs>
+      <marker id="mea044b__mk-arrow" refX="9.45" refY="3.4" markerWidth="10.8" markerHeight="6.8" markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+        <path d="M 0 0 L 10.8 3.4 L 0 6.8 Z" class="m-marker" fill="var(--m-line)" stroke="none"/>
+      </marker>
+    </defs>
+    <g class="m-node m-edge" id="mea044b__edge__Start__Init__0" data-role="connector">
+      <path d="M 316.71 86.9 L 316.71 145.55" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Init__Loop1__0" data-role="connector">
+      <path d="M 316.71 217.6 L 316.71 276.25" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Loop1__Cond1__0" data-role="connector">
+      <path d="M 316.71 340.88 L 316.71 370.88 Q 316.71 376.88, 310.71 376.88 L 256.8 376.88 Q 250.8 376.88, 250.8 382.88 L 250.8 459.53" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Cond1__Cond2__0" data-role="connector">
+      <path d="M 250.8 528.03 L 250.8 574.03 Q 250.8 580.03, 244.8 580.03 L 77.08 580.03 Q 71.08 580.03, 71.08 586.03 L 71.08 646.68" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Cond2__Set1__0" data-role="connector">
+      <path d="M 160.52 688.28 L 170.52 688.28 Q 176.52 688.28, 176.52 694.28 L 176.52 758.53 Q 176.52 764.53, 170.52 764.53 L 166.52 764.53 Q 160.52 764.53, 160.52 770.53 L 160.52 847.18" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Cond2__Set2__0" data-role="connector">
+      <path d="M -18.36 688.28 L -28.36 688.28 Q -34.36 688.28, -34.36 694.28 L -34.36 758.53 Q -34.36 764.53, -28.36 764.53 L -24.36 764.53 Q -18.36 764.53, -18.36 770.53 L -18.36 847.18" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Set2__CheckBounds__0" data-role="connector">
+      <path d="M 5.08 885.43 L 5.08 956.97 Q 5.08 962.97, 11.08 962.97 L 89.79 962.97 Q 95.79 962.97, 95.79 968.97 L 95.79 1023.17" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Set1__Inc1__0" data-role="connector">
+      <path d="M 158.6 885.43 L 158.6 950.85 Q 158.6 956.85, 164.6 956.85 L 309.37 956.85 Q 315.37 956.85, 315.37 962.85 L 315.37 1042.92" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Cond1__Inc1__0" data-role="connector">
+      <path d="M 188.99 494.46 L 178.99 494.46 Q 172.99 494.46, 172.99 500.46 L 172.99 558.03 Q 172.99 564.03, 178.99 564.03 L 199.52 564.03 Q 205.52 564.03, 205.52 570.03 L 205.52 718.28 Q 205.52 724.28, 211.52 724.28 L 401.62 724.28 Q 407.62 724.28, 407.62 730.28 L 407.62 1050.57 Q 407.62 1056.57, 401.62 1056.57 L 340.98 1056.57" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Inc1__Loop1__0" data-role="connector">
+      <path d="M 339.63 1068.87 L 431.62 1068.87 Q 437.62 1068.87, 437.62 1062.87 L 437.62 299.42 Q 437.62 293.42, 431.62 293.42 L 344.95 293.42" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Loop1__CheckBounds__0" data-role="connector">
+      <path d="M 343.6 325.06 L 353.6 325.06 Q 359.6 325.06, 359.6 331.06 L 359.6 375.89 Q 359.6 376.88, 358.61 376.88 L 358.61 376.88 Q 357.62 376.88, 357.62 377.87 L 357.62 593.37 Q 357.62 599.37, 351.62 599.37 L 261.52 599.37 Q 255.52 599.37, 255.52 605.37 L 255.52 947.75 Q 255.52 953.75, 249.52 953.75 L 179.45 953.75 Q 173.45 953.75, 173.45 959.75 L 173.45 1023.17" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__CheckBounds__PrintErr1__0" data-role="connector">
+      <path d="M 251.12 1062.72 L 261.12 1062.72 Q 267.12 1062.72, 267.12 1068.72 L 267.12 1150.01 Q 267.12 1156.01, 261.12 1156.01 L 257.12 1156.01 Q 251.12 1156.01, 251.12 1162.01 L 251.12 1266.41" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__PrintErr1__End__0" data-role="connector">
+      <path d="M 252.23 1321.56 L 252.23 1534.66 Q 252.23 1540.66, 246.23 1540.66 L 133.78 1540.66 Q 127.78 1540.66, 127.78 1546.66 L 127.78 1944.29 Q 127.78 1950.29, 121.78 1950.29 L 113.96 1950.29" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__CheckBounds__CheckEmpty__0" data-role="connector">
+      <path d="M 18.13 1062.72 L -28.48 1062.72 Q -34.48 1062.72, -34.48 1068.72 L -34.48 1238.66" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__CheckEmpty__PrintErr2__0" data-role="connector">
+      <path d="M 114.62 1294.66 L 124.62 1294.66 Q 130.62 1294.66, 130.62 1300.66 L 130.62 1379.31 Q 130.62 1385.31, 124.62 1385.31 L 120.62 1385.31 Q 114.62 1385.31, 114.62 1391.31 L 114.62 1476.41" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__PrintErr2__End__0" data-role="connector">
+      <path d="M 77.78 1531.56 L 77.78 1930.49" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__CheckEmpty__InitSum__0" data-role="connector">
+      <path d="M -183.58 1294.66 L -193.58 1294.66 Q -199.58 1294.66, -199.58 1300.66 L -199.58 1379.31 Q -199.58 1385.31, -193.58 1385.31 L -134.93 1385.31 Q -128.93 1385.31, -128.93 1391.31 L -128.93 1467.96" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__InitSum__Loop2__0" data-role="connector">
+      <path d="M -117.5 1540.01 L -117.5 1598.66" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Loop2__Calc__0" data-role="connector">
+      <path d="M -147.76 1667.61 L -147.76 1743.14 Q -147.76 1749.14, -153.76 1749.14 L -270.74 1749.14 Q -276.74 1749.14, -276.74 1755.14 L -276.74 1799.79" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Calc__Loop2__0" data-role="connector">
+      <path d="M -330.82 1836.49 L -344.82 1836.49 Q -350.82 1836.49, -350.82 1830.49 L -350.82 1646.57 Q -350.82 1640.57, -344.82 1640.57 L -209.61 1640.57" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__Loop2__PrintRes__0" data-role="connector">
+      <path d="M -87.25 1667.61 L -87.25 1816.69" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="mea044b__edge__PrintRes__End__0" data-role="connector">
+      <path d="M -99.94 1854.94 L -99.94 1901.84 Q -99.94 1907.84, -93.94 1907.84 L 63.66 1907.84 Q 69.66 1907.84, 69.66 1913.84 L 69.66 1930.49" class="m-path" marker-end="url(#mea044b__mk-arrow)"/>
+    </g>
+    <g class="m-node m-node--stadium" id="mea044b__node__Start" data-role="vertex">
+      <rect x="277.92" y="50" width="77.58" height="36.9" rx="18.45" ry="18.45" class="m-shape"/>
+      <text x="316.71" y="68.45" class="m-label t-label" text-anchor="middle">Начало</text>
+    </g>
+    <g class="m-node m-node--rect" id="mea044b__node__Init" data-role="vertex">
+      <rect x="250.13" y="146.9" width="133.17" height="70.7" class="m-shape"/>
+      <text x="316.71" y="182.25" class="m-label t-label" text-anchor="middle"><tspan x="316.71" dy="-16.9px">first_neg = -1</tspan><tspan x="316.71" dy="16.9px">second_neg = -1</tspan><tspan x="316.71" dy="16.9px">i = 0</tspan></text>
+    </g>
+    <g class="m-node m-node--diamond" id="mea044b__node__Loop1" data-role="vertex">
+      <polygon points="316.71,277.6 370.5,309.24 316.71,340.88 262.92,309.24" class="m-shape"/>
+      <text x="316.71" y="309.24" class="m-label t-label" text-anchor="middle">i &lt; size</text>
+    </g>
+    <g class="m-node m-node--diamond" id="mea044b__node__Cond1" data-role="vertex">
+      <polygon points="250.8,460.88 312.62,494.46 250.8,528.03 188.99,494.46" class="m-shape"/>
+      <text x="250.8" y="494.46" class="m-label t-label" text-anchor="middle">arr[i] &lt; 0</text>
+    </g>
+    <g class="m-node m-node--diamond" id="mea044b__node__Cond2" data-role="vertex">
+      <polygon points="71.08,648.03 160.52,688.28 71.08,728.53 -18.36,688.28" class="m-shape"/>
+      <text x="71.08" y="688.28" class="m-label t-label" text-anchor="middle">first_neg == -1</text>
+    </g>
+    <g class="m-node m-node--rect" id="mea044b__node__Set2" data-role="vertex">
+      <rect x="-56.53" y="848.53" width="123.21" height="36.9" class="m-shape"/>
+      <text x="5.08" y="866.98" class="m-label t-label" text-anchor="middle">second_neg = i</text>
+    </g>
+    <g class="m-node m-node--rect" id="mea044b__node__Set1" data-role="vertex">
+      <rect x="106.68" y="848.53" width="103.84" height="36.9" class="m-shape"/>
+      <text x="158.6" y="866.98" class="m-label t-label" text-anchor="middle">first_neg = i</text>
+    </g>
+    <g class="m-node m-node--diamond" id="mea044b__node__CheckBounds" data-role="vertex">
+      <polygon points="134.62,1005.43 251.12,1062.72 134.62,1120.01 18.13,1062.72" class="m-shape"/>
+      <text x="134.62" y="1062.72" class="m-label t-label" text-anchor="middle"><tspan x="134.62" dy="-8.45px">first_neg == -1 ИЛИ</tspan><tspan x="134.62" dy="16.9px">second_neg == -1</tspan></text>
+    </g>
+    <g class="m-node m-node--rect" id="mea044b__node__Inc1" data-role="vertex">
+      <rect x="291.12" y="1044.27" width="48.51" height="36.9" class="m-shape"/>
+      <text x="315.37" y="1062.72" class="m-label t-label" text-anchor="middle">i++</text>
+    </g>
+    <g class="m-node m-node--diamond" id="mea044b__node__CheckEmpty" data-role="vertex">
+      <polygon points="-34.48,1240.01 114.62,1294.66 -34.48,1349.31 -183.58,1294.66" class="m-shape"/>
+      <text x="-34.48" y="1294.66" class="m-label t-label" text-anchor="middle">second_neg - first_neg &lt;= 1</text>
+    </g>
+    <g class="m-node m-node--parallelogram" id="mea044b__node__PrintErr1" data-role="vertex">
+      <polygon points="183.91,1267.76 349.84,1267.76 320.56,1321.56 154.62,1321.56" class="m-shape"/>
+      <text x="252.23" y="1294.66" class="m-label t-label" text-anchor="middle"><tspan x="252.23" dy="-8.45px">Вывод: меньше двух</tspan><tspan x="252.23" dy="16.9px">отрицательных</tspan></text>
+    </g>
+    <g class="m-node m-node--rect" id="mea044b__node__InitSum" data-role="vertex">
+      <rect x="-180.53" y="1469.31" width="126.06" height="70.7" class="m-shape"/>
+      <text x="-117.5" y="1504.66" class="m-label t-label" text-anchor="middle"><tspan x="-117.5" dy="-16.9px">sum = 0</tspan><tspan x="-117.5" dy="16.9px">count = 0</tspan><tspan x="-117.5" dy="16.9px">i = first_neg + 1</tspan></text>
+    </g>
+    <g class="m-node m-node--parallelogram" id="mea044b__node__PrintErr2" data-role="vertex">
+      <polygon points="13.2,1477.76 170.04,1477.76 142.36,1531.56 -14.48,1531.56" class="m-shape"/>
+      <text x="77.78" y="1504.66" class="m-label t-label" text-anchor="middle"><tspan x="77.78" dy="-8.45px">Вывод: между ними</tspan><tspan x="77.78" dy="16.9px">нет чисел</tspan></text>
+    </g>
+    <g class="m-node m-node--diamond" id="mea044b__node__Loop2" data-role="vertex">
+      <polygon points="-117.5,1600.01 -26.74,1640.57 -117.5,1681.14 -208.26,1640.57" class="m-shape"/>
+      <text x="-117.5" y="1640.57" class="m-label t-label" text-anchor="middle">i &lt; second_neg</text>
+    </g>
+    <g class="m-node m-node--rect" id="mea044b__node__Calc" data-role="vertex">
+      <rect x="-330.82" y="1801.14" width="108.17" height="70.7" class="m-shape"/>
+      <text x="-276.74" y="1836.49" class="m-label t-label" text-anchor="middle"><tspan x="-276.74" dy="-16.9px">sum += arr[i]</tspan><tspan x="-276.74" dy="16.9px">count++</tspan><tspan x="-276.74" dy="16.9px">i++</tspan></text>
+    </g>
+    <g class="m-node m-node--parallelogram" id="mea044b__node__PrintRes" data-role="vertex">
+      <polygon points="-157.84,1818.04 -17.22,1818.04 -42.03,1854.94 -182.65,1854.94" class="m-shape"/>
+      <text x="-99.94" y="1836.49" class="m-label t-label" text-anchor="middle">Вывод: sum / count</text>
+    </g>
+    <g class="m-node m-node--stadium" id="mea044b__node__End" data-role="vertex">
+      <rect x="42.96" y="1931.84" width="69.65" height="36.9" rx="18.45" ry="18.45" class="m-shape"/>
+      <text x="77.78" y="1950.29" class="m-label t-label" text-anchor="middle">Конец</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="238.26" y="407.73" width="25.09" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="250.8" y="418.88" class="m-label t-edge" text-anchor="middle">Да</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="148.4" y="568.88" width="25.09" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="160.94" y="580.03" class="m-label t-edge" text-anchor="middle">Да</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="147.98" y="795.38" width="25.09" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="160.52" y="806.53" class="m-label t-edge" text-anchor="middle">Да</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="-34.18" y="795.38" width="31.64" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="-18.36" y="806.53" class="m-label t-edge" text-anchor="middle">Нет</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="391.8" y="879.27" width="31.64" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="407.62" y="890.42" class="m-label t-edge" text-anchor="middle">Нет</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="239.7" y="765.41" width="31.64" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="255.52" y="776.56" class="m-label t-edge" text-anchor="middle">Нет</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="238.57" y="1200.74" width="25.09" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="251.12" y="1211.89" class="m-label t-edge" text-anchor="middle">Да</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="-50.29" y="1140.22" width="31.64" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="-34.48" y="1151.37" class="m-label t-edge" text-anchor="middle">Нет</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="102.08" y="1420.38" width="25.09" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="114.62" y="1431.53" class="m-label t-edge" text-anchor="middle">Да</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="-227.39" y="1328.83" width="31.64" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="-211.58" y="1339.98" class="m-label t-edge" text-anchor="middle">Нет</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="-224.79" y="1737.99" width="25.09" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="-212.25" y="1749.14" class="m-label t-edge" text-anchor="middle">Да</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="-103.07" y="1731.67" width="31.64" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="-87.25" y="1742.82" class="m-label t-edge" text-anchor="middle">Нет</text>
+    </g>
+  </g>
+</svg>
